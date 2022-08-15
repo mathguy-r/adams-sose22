@@ -1,3 +1,5 @@
 reviews.csv
 train.csv
 test.csv
+*.pkl
+*.model
