@@ -1,5 +1,6 @@
 reviews.csv
 train.csv
 test.csv
+w2v.ipynb
 *.pkl
 *.model
