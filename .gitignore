@@ -4,3 +4,5 @@ test.csv
 w2v.ipynb
 *.pkl
 *.model
+*.npy
+*.csv
