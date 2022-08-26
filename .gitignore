@@ -6,3 +6,4 @@ w2v.ipynb
 *.model
 *.npy
 *.csv
+*.txt
